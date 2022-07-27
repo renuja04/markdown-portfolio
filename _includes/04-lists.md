@@ -1,8 +1,10 @@
 A list of my favorite things:
-* cat
-* dog
-* baby
-* computer
+:heart:
+:cat:
+:dog:
+:computer:
+
+
 
 In order, these are my favorite flavors of icecream:
 1.Chocolate
